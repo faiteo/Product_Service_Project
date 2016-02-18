@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\CSharpProjects\Product_Service_Project\WindowsServiceHost_Product\bin\Debug\WindowsServiceHost_Product.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\CSharpProjects\Product_Service_Project\WindowsServiceHost_Product\bin\Debug\WindowsServiceHost_Product.InstallLog
+   assemblypath = C:\CSharpProjects\Product_Service_Project\WindowsServiceHost_Product\bin\Debug\WindowsServiceHost_Product.exe
+   logtoconsole = 
+Installing service ProductService...
+Service ProductService has been successfully installed.
+Creating EventLog source ProductService in log Application...
+Committing assembly 'C:\CSharpProjects\Product_Service_Project\WindowsServiceHost_Product\bin\Debug\WindowsServiceHost_Product.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\CSharpProjects\Product_Service_Project\WindowsServiceHost_Product\bin\Debug\WindowsServiceHost_Product.InstallLog
+   assemblypath = C:\CSharpProjects\Product_Service_Project\WindowsServiceHost_Product\bin\Debug\WindowsServiceHost_Product.exe
+   logtoconsole = 

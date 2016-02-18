@@ -1,0 +1,10 @@
+C:\CSharpProjects\Product_Service_Project\ConsoleApplication_Host\bin\Debug\ProductDatabase.mdf
+C:\CSharpProjects\Product_Service_Project\ConsoleApplication_Host\bin\Debug\ProductDatabase_log.ldf
+C:\CSharpProjects\Product_Service_Project\ConsoleApplication_Host\bin\Debug\ConsoleApplication_Host.exe.config
+C:\CSharpProjects\Product_Service_Project\ConsoleApplication_Host\bin\Debug\ConsoleApplication_Host.exe
+C:\CSharpProjects\Product_Service_Project\ConsoleApplication_Host\bin\Debug\ConsoleApplication_Host.pdb
+C:\CSharpProjects\Product_Service_Project\ConsoleApplication_Host\bin\Debug\Product_Service_Project.dll
+C:\CSharpProjects\Product_Service_Project\ConsoleApplication_Host\bin\Debug\Product_Service_Project.pdb
+C:\CSharpProjects\Product_Service_Project\ConsoleApplication_Host\obj\Debug\ConsoleApplication_Host.csprojResolveAssemblyReference.cache
+C:\CSharpProjects\Product_Service_Project\ConsoleApplication_Host\obj\Debug\ConsoleApplication_Host.exe
+C:\CSharpProjects\Product_Service_Project\ConsoleApplication_Host\obj\Debug\ConsoleApplication_Host.pdb

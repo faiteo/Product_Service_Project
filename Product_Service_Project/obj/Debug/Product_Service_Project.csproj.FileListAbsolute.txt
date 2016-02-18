@@ -1,0 +1,21 @@
+c:\users\faithnielsen\documents\visual studio 2013\Projects\Product_Service_Project\Product_Service_Project\bin\Debug\Product_Service_Project.dll.config
+c:\users\faithnielsen\documents\visual studio 2013\Projects\Product_Service_Project\Product_Service_Project\bin\Debug\Product_Service_Project.dll
+c:\users\faithnielsen\documents\visual studio 2013\Projects\Product_Service_Project\Product_Service_Project\bin\Debug\Product_Service_Project.pdb
+c:\users\faithnielsen\documents\visual studio 2013\Projects\Product_Service_Project\Product_Service_Project\obj\Debug\Product_Service_Project.dll
+c:\users\faithnielsen\documents\visual studio 2013\Projects\Product_Service_Project\Product_Service_Project\obj\Debug\Product_Service_Project.pdb
+C:\Users\FaithNielsen\documents\visual studio 2013\Projects\Product_Service_Project\Product_Service_Project\bin\Debug\ProductDatabase.mdf
+C:\Users\FaithNielsen\documents\visual studio 2013\Projects\Product_Service_Project\Product_Service_Project\bin\Debug\ProductDatabase_log.ldf
+C:\Product_Service_Project\Product_Service_Project\bin\Debug\ProductDatabase.mdf
+C:\Product_Service_Project\Product_Service_Project\bin\Debug\ProductDatabase_log.ldf
+C:\Product_Service_Project\Product_Service_Project\bin\Debug\Product_Service_Project.dll.config
+C:\Product_Service_Project\Product_Service_Project\bin\Debug\Product_Service_Project.dll
+C:\Product_Service_Project\Product_Service_Project\bin\Debug\Product_Service_Project.pdb
+C:\Product_Service_Project\Product_Service_Project\obj\Debug\Product_Service_Project.csprojResolveAssemblyReference.cache
+C:\Product_Service_Project\Product_Service_Project\obj\Debug\Product_Service_Project.dll
+C:\Product_Service_Project\Product_Service_Project\obj\Debug\Product_Service_Project.pdb
+C:\CSharpProjects\Product_Service_Project\Product_Service_Project\bin\Debug\ProductDatabase.mdf
+C:\CSharpProjects\Product_Service_Project\Product_Service_Project\bin\Debug\ProductDatabase_log.ldf
+C:\CSharpProjects\Product_Service_Project\Product_Service_Project\obj\Debug\Product_Service_Project.dll
+C:\CSharpProjects\Product_Service_Project\Product_Service_Project\obj\Debug\Product_Service_Project.pdb
+C:\CSharpProjects\Product_Service_Project\Product_Service_Project\bin\Debug\Product_Service_Project.dll
+C:\CSharpProjects\Product_Service_Project\Product_Service_Project\bin\Debug\Product_Service_Project.pdb
